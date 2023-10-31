@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Manga World</string>
+    <string name="favorites">Mes favoris</string>
+    <string name="search">Rechercher</string>
+</resources>
